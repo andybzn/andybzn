@@ -1,5 +1,8 @@
 ### Hi there, I'm Andy. 👋
 
+I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues for others, I try my best to automate my life 🤖
+
+So far this year, I've consumed 9000 cups of coffee. I think.
 <!--
 **dark-coffee/dark-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-*the power of the shell, in the palm of my hands*
+----
+⚡ *the power of the shell, in the palm of my hands*
