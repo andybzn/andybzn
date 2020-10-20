@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
---
+---
 ⚡ *the power of the shell, in the palm of my hands*
