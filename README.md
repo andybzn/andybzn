@@ -2,8 +2,10 @@
 
 I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues for others, I try my best to automate my life 🤖
 
-* So far this year, I've consumed 9001 cups of coffee. I think.
+* So far this year, I've consumed 9999 cups of coffee. I think.
 * I don't cheat on my contribution graph.
+
+🎄
 <!--
 **dark-coffee/dark-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
