@@ -2,10 +2,10 @@
 
 I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues for others, I try my best to automate my life 🤖
 
-* So far this year, I've consumed ~1080 cups of coffee. I think.
+* So far this year, I've consumed ~1098 cups of coffee. I think.
 * I don't cheat on my contribution graph.
 
-🎄 Merry Christmas! 🎄
+🎄 Merry ~~Christmas!~~ Boxing Day! 🎄
 
 -------------
 🏆 2020 Achievements 🏆
