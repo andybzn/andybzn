@@ -2,10 +2,8 @@
 
 I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues for others, I try my best to automate my life 🤖
 
-* So far this year, I've consumed ~1098 cups of coffee. I think.
+* So far this year, I've consumed 3 cups of coffee.
 * I don't cheat on my contribution graph.
-
-🎄🎄
 
 -------------
 🏆 2020 Achievements 🏆
