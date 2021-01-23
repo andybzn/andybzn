@@ -2,17 +2,11 @@
 
 I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues for others, I try my best to automate my life 🤖
 
-* So far this year, I've consumed 67 cups of coffee.
-* I don't cheat on my contribution graph.
+#### 2021 Coffee Counter
+☕: 70
 
--------------
-🏆 2020 Achievements 🏆
-* Got my git together xD
-* Published my first powershell module
 
--------------
-2021 Goals:
-* Get my git together x2
+
 <!--
 **dark-coffee/dark-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
