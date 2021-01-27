@@ -6,6 +6,7 @@ I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues 
 # ☕: 81
 
 
+[![dark-coffee's github stats](https://github-readme-stats.vercel.app/api?username=dark-coffee)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dark-coffee/dark-coffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
