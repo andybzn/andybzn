@@ -3,7 +3,7 @@
 I'm a Tech Consultant by day, PowerShell nerd by night. When not solving issues for others, I try my best to automate my life 🤖
 
 #### 2021 Coffee Counter
-# ☕: 122
+# ☕: 126
 
 
 [![dark-coffee's github stats](https://github-readme-stats.vercel.app/api?username=dark-coffee)](https://github.com/anuraghazra/github-readme-stats)
