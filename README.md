@@ -1,10 +1,19 @@
 # Hi, I'm Andy! 👋
 
-- Cloud Professional & General Troublemaker
+## About Me
+
+I'm a:
+
+- Cloud Professional
+- General Troublemaker
+- Serial Re-learner of Regex
 - Homelabber
 - Avid Learner
 
----
+And I'm:
+
+- Currently working on streamlining cloud delivery, and other cool stuff over [@Advanced](https://github.com/advancedcsg)
+
 ## My Skills
 
 I deploy on:
@@ -37,6 +46,6 @@ I work with:
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Unifi](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
-I'm learning:
+I'm currently learning:
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
