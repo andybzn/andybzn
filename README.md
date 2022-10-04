@@ -12,7 +12,7 @@ I'm a:
 
 And I'm:
 
-- Currently working on streamlining cloud delivery, and other cool stuff over [@Advanced](https://github.com/advancedcsg)
+- Currently working on cloud operations, and other cool stuff over [@Advanced](https://github.com/advancedcsg)
 
 ## My Skills
 
