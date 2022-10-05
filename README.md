@@ -1,26 +1,12 @@
 # Hi, I'm Andy! 👋
 
-## About Me
+🔭 I'm working on Cloud Operations  
+🌱 I'm currently learning rust 🦀  
+⚡ I'm a serial re-learner of regex
 
-I'm a:
-
-- Cloud Professional
-- Serial Re-learner of Regex
-- Homelabber
-- Avid Learner
-
-And I'm:
-
-- Currently working on cloud operations, and other cool stuff over [@Advanced](https://github.com/advancedcsg)
-
-## My Skills
-
-I deploy on:
+## ⚙️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-I work with:
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -44,7 +30,4 @@ I work with:
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Unifi](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
-
-I'm currently learning:
-
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
