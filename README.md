@@ -31,7 +31,3 @@
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Unifi](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-## Github Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andybzn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
