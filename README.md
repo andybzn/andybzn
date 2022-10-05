@@ -5,7 +5,6 @@
 I'm a:
 
 - Cloud Professional
-- General Troublemaker
 - Serial Re-learner of Regex
 - Homelabber
 - Avid Learner
