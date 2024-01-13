@@ -14,7 +14,7 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 ## ⚡ Fun facts
 
 - 🐧 After years of using Windows, I've finally migrated away to solely Unix devices
-- ☕️ Some say, my blood is more caffeine that actual blood at this point, and that if you stare hard enough, you might see the tiny robot controlling me
+- ☕️ Some say, my blood is more caffeine than actual blood at this point, and that if you stare hard enough, you might see the tiny robot controlling me
 - 🔺 i use arch btw
 
 ## 🎩  My top languages
