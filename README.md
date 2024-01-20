@@ -23,4 +23,4 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 
 ## 📫 How to reach me
 
-You can find me on [Mastodon](https://hachyderm.io/bzn), making poor excuses for memes, and terrible puns
+You can find me on [Mastodon](https://hachyderm.io/@bzn), making poor excuses for memes, and terrible puns
