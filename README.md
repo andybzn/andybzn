@@ -7,15 +7,16 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 - ☁️ Cloud things
 - 🦀 Learning rust
 - 🤓 Developing my DevOps skills
-- 🧑🏻‍💻 Homelabbing (ask me about my microk8s cluster)
-- 📦 Resisting the urge to buy more computers
-
+- 🧑🏻‍💻 Homelabbing (ask me about my k3s cluster)
+- 📦 Resisting the urge to buy more computers (this isn't working)
+- 🏡 Home automation!
 
 ## ⚡ Fun facts
 
 - 🐧 After years of using Windows, I've finally migrated away to solely Unix devices
 - ☕️ Some say, my blood is more caffeine than actual blood at this point, and that if you stare hard enough, you might see the tiny robot controlling me
-- 🔺 i use arch btw
+- 🔺 i use(d?) arch btw
+- ❄️ I only broke my nixos install once, and it was a doozy
 
 ## 🎩  My top languages
 
