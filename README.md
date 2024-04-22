@@ -22,6 +22,13 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andybzn&layout=compact&theme=dark&hide_title=true&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+## Certifications
+<body> 
+<a href="https://www.credly.com/badges/462ca9ba-6e26-468a-bdb0-bee141f372ac/public_url" target="_blank">
+  <img width="120" height="120" src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />
+</a>
+</body>
+
 ## 📫 How to reach me
 
 You can find me on [✨ The Fediverse ✨](https://hachyderm.io/@bzn), making poor excuses for memes, and terrible puns
