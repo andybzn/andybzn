@@ -17,6 +17,7 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 - ☕️ Some say, my blood is more caffeine than actual blood at this point, and that if you stare hard enough, you might see the tiny robot controlling me
 - 🔺 i use(d?) arch btw
 - ❄️ I only broke my nixos install once, and it was a doozy
+- ⌨️ I'm learning Colemak-dh!
 
 ## 🎩 My top languages
 
