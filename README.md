@@ -5,7 +5,7 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 ## 🚀 What I'm up to
 
 - ☁️ Cloud things
-- 🦀 Learning rust
+- 🦀 Learning rust & zig ⚡
 - 🤓 Developing my DevOps skills
 - 🧑🏻‍💻 Homelabbing (ask me about my k3s cluster)
 - 📦 Resisting the urge to buy more computers (this isn't working)
@@ -13,9 +13,6 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 
 ## ⚡ Fun facts
 
-- 🐧 After years of using Windows, I've finally migrated away to solely Unix devices
-- ☕️ Some say, my blood is more caffeine than actual blood at this point, and that if you stare hard enough, you might see the tiny robot controlling me
-- 🔺 i use(d?) arch btw
 - ❄️ i use nixos, btw
 - ⌨️ I'm learning Colemak-dh!
 
@@ -28,4 +25,5 @@ I'm a Cloud Engineer, general nerd and chaotic neutral. I'm passionate about lea
 ## 📫 How to reach me
 
 You can find me on [✨ The Fediverse ✨](https://hachyderm.io/@bzn), making poor excuses for memes, and terrible puns
+
 
